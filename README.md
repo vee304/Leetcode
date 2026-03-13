@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vee304/Leetcode/tree/master/0053-maximum-subarray) |
+| [1528-shuffle-string](https://github.com/vee304/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vee304/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Divide and Conquer
 |  |
@@ -19,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1528-shuffle-string](https://github.com/vee304/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vee304/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
